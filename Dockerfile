@@ -1,1 +1,1 @@
-FROM MobSF/Mobile-Security-Framework-MobSF:v3.9.7
+FROM opensecurity/mobile-security-framework-mobsf:latest
