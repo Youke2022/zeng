@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.47.0
+FROM MobSF/Mobile-Security-Framework-MobSF:v3.9.7
